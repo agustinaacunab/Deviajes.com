@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proyecto final JavaScript</title>
+    <link rel="stylesheet" href="https://cdn.jsdelvir.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <link rel="stylesheet" href="../css/main.css">
+</head>
+<body>
+
+    <div class="wrapper">
+        <aside>
+        <header>
+            <h1 class="logo">Deviajes.com</h1>
+        </header>
+            <nav>
+                <ul>
+                    <li><a  class="btn-menu btn-back" href="../index.html">
+                        <i class="bi bi-rewind-fill"></i>Seguir comprando 
+                    </a>
+                    </li>
+                    <li><a  class="btn-menu btn-carrito active" href="./pages/carrito.html">
+                        <i class="bi bi-bag"></i>Carrito <span id="numerito" class="numero">0</span>
+                    </a>
+                    </li>
+                </ul>
+            </nav>
+        
+        <footer>
+            <p class="txt-foot">© 2023 Deviajes.com all rights reserved. </p>
+        </footer>
+        </aside>
+        <main>
+<h2 class="mainTitle">tus elegidos</h2>
+<div class="contenedor-carrito ">
+    <p id="emptyBag" class="empty-bag">Tu carrito esta vacio. Comienza a armar tus vacaciones soñadas</p>
+
+    <div id="carrito-productos" class="carrito-productos disabled">
+  <!-- Se completa con JS-->
+    </div>
+</div>
+    <div id="acciones-carrito" class="carrito-acciones disabled">
+        <button id="carrito-acciones-left" class="carrito-acciones-left">Vaciar carrito</button>
+    </div>
+    <div class="carrito-acciones-total ">
+        <div class="carrito-acciones-right">
+            <p>total:</p>
+            <p id="total">1650</p>
+        </div>
+        <button id="carrito-acciones-comprar" class="carrito-acciones-comprar-ahora">Comprar ahora</button>
+    </div>
+</div>
+<p id="carrito-comprado" class="Compra-lista disabled"><i class="bi bi-check2-all">Gracias por tu compra! En breve recibiras un Email con las proximas indicaciones.</i></p>
+        </main>
+    </div>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="../js/carrito.js"></script>
+</body>
+</html>
