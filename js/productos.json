@@ -2,7 +2,7 @@
     {
         "id": "vuelo-01",
         "titulo": "EZE-BCN",
-        "img": "../img/avion.jpg",
+        "img": "./img/avion.jpg",
         "categoria": {
             "nombre": "vuelos",
             "id": "vuelos"
@@ -12,7 +12,7 @@
     {
         "id": "vuelo-02",
         "titulo": "BCN-EZE",
-        "img": "../img/avion.jpg",
+        "img": "./img/avion.jpg",
         "categoria": {
             "nombre": "vuelos",
             "id": "vuelos"
@@ -22,7 +22,7 @@
     {
         "id": "vuelo-03",
         "titulo": "EZE-IT",
-        "img": "../img/avion.jpg",
+        "img": "./img/avion.jpg",
         "categoria": {
             "nombre": "vuelos",
             "id": "vuelos"
@@ -32,7 +32,7 @@
     {
         "id": "vuelo-04",
         "titulo": "IT-EZE",
-        "img": "../img/avion.jpg",
+        "img": "./img/avion.jpg",
         "categoria": {
             "nombre": "vuelos",
             "id": "vuelos"
@@ -42,7 +42,7 @@
     {
         "id": "vuelo-05",
         "titulo": "EZE-CHINA",
-        "img": "../img/avion.jpg",
+        "img": "./img/avion.jpg",
         "categoria": {
             "nombre": "vuelos",
             "id": "vuelos"
@@ -52,7 +52,7 @@
     {
         "id": "vuelo-06",
         "titulo": "CHINA-EZE",
-        "img": "../img/avion.jpg",
+        "img": "./img/avion.jpg",
         "categoria": {
             "nombre": "vuelos",
             "id": "vuelos"
@@ -62,7 +62,7 @@
     {
         "id": "vuelo-07",
         "titulo": "EZE-TAI",
-        "img": "../img/avion.jpg",
+        "img": "./img/avion.jpg",
         "categoria": {
             "nombre": "vuelos",
             "id": "vuelos"
@@ -72,7 +72,7 @@
     {
         "id": "vuelo-08",
         "titulo": "TAI-EZE",
-        "img": "../img/avion.jpg",
+        "img": "./img/avion.jpg",
         "categoria": {
             "nombre": "vuelos",
             "id": "vuelos"
@@ -83,7 +83,7 @@
     {
         "id": "hotel-01",
         "titulo": "Hotel Maddison-Roma",
-        "img": "../img/checkin.JPG",
+        "img": "./img/checkin.JPG",
         "categoria": {
             "nombre": "hoteles",
             "id": "hoteles"
@@ -92,7 +92,7 @@
     },{
         "id": "hotel-02",
         "titulo": "Hotel Paradisso-Florencia",
-        "img": "../img/checkin.JPG",
+        "img": "./img/checkin.JPG",
         "categoria": {
             "nombre": "hoteles",
             "id": "hoteles"
@@ -101,7 +101,7 @@
     },{
         "id": "hotel-03",
         "titulo": "Hotel Chinatown",
-        "img": "../img/checkin.JPG",
+        "img": "./img/checkin.JPG",
         "categoria": {
             "nombre": "hoteles",
             "id": "hoteles"
@@ -110,7 +110,7 @@
     },{
         "id": "hotel-04",
         "titulo": "Hotel Gran muralla",
-        "img": "../img/checkin.JPG",
+        "img": "./img/checkin.JPG",
         "categoria": {
             "nombre": "hoteles",
             "id": "hoteles"
@@ -119,7 +119,7 @@
     },{
         "id": "hotel-05",
         "titulo": "Hotel koh phi phi",
-        "img": "../img/checkin.JPG",
+        "img": "./img/checkin.JPG",
         "categoria": {
             "nombre": "hoteles",
             "id": "hoteles"
@@ -130,7 +130,7 @@
     {
         "id": "tour-01",
         "titulo": "tour discover costa amalfitana",
-        "img": "../img/Amalfi.avif",
+        "img": "./img/Amalfi.avif",
         "categoria": {
             "nombre": "excursiones",
             "id": "excursiones"
@@ -139,7 +139,7 @@
     },{
         "id": "tour-02",
         "titulo": "tour discover China",
-        "img": "../img/China.avif",
+        "img": "./img/China.avif",
         "categoria": {
             "nombre": "excursiones",
             "id": "excursiones"
@@ -148,7 +148,7 @@
     },{
         "id": "tour-03",
         "titulo": "tour Tailandia al completo",
-        "img": "../img/Tailandia.avif",
+        "img": "./img/Tailandia.avif",
         "categoria": {
             "nombre": "excursiones",
             "id": "excursiones"
@@ -157,7 +157,7 @@
     },{
         "id": "tour-04",
         "titulo": "tour Asia Golden",
-        "img": "../img/Asia.avif",
+        "img": "./img/Asia.avif",
         "categoria": {
             "nombre": "excursiones",
             "id": "excursiones"
@@ -166,7 +166,7 @@
     },{
         "id": "tour-05",
         "titulo": "tour Playas italianas",
-        "img": "../img/playa.avif",
+        "img": "./img/playa.avif",
         "categoria": {
             "nombre": "excursiones",
             "id": "excursiones"
